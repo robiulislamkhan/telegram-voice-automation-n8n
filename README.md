@@ -30,3 +30,8 @@ This project is an automation workflow built using n8n that processes Telegram v
 1. Install n8n:
    ```bash
    npm install n8n -g
+
+## 📸 Workflow Preview
+
+![Workflow Preview](workflow-preview.png)
+
